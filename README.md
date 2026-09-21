@@ -1,4 +1,4 @@
-# decodelabs-_tasks
+# decodelabs_tasks
 
 # 🚀 DecodeLabs Internship Portfolio
 
@@ -16,7 +16,7 @@ This repository serves as a centralized log of my technical growth, machine lear
 
 - **Languages:** Python
 - **Machine Learning & Data Science:** Scikit-Learn, Pandas
-- **AI/ML Concepts:** K-Nearest Neighbors (KNN), Data Preprocessing, Classification Models
+- **AI/ML Concepts:** K-Nearest Neighbors (KNN), Recommendation Systems, Computer Vision (OCR), Classification Models
 - **NLP & Logic:** Regular Expressions (Regex), Rule-Based Systems
 - **Version Control:** Git, GitHub
 
@@ -26,7 +26,8 @@ This repository serves as a centralized log of my technical growth, machine lear
 | :--- | :--- | :--- | :---: | :---: |
 | **[Project 1: ChatBot](./Project-1_ChatBot)** | A rule-based conversational agent using Python and Regular Expressions for pattern matching and input validation. | `Python` `re` | 🟢 Completed | [View](./Project-1_ChatBot) |
 | **[Project 2: Classification Model](./Project_2_classfication_model)** | An end-to-end K-Nearest Neighbors (KNN) classification model built on the Iris dataset, featuring data scaling and evaluation metrics. | `Python` `Scikit-Learn` `Pandas` | 🟢 Completed | [View](./Project_2_classfication_model) |
-| **[Project 3 Name](./project-3-folder)** | 🟡 In Progress | [View](./project-3-folder) |
+| **[Project 3: Recommendation System](./Project_3_recommendation)** | An AI model designed to analyze data patterns and generate tailored recommendations. | `Python` `Machine Learning` | 🟢 Completed | [View](./Project_3_recommendation) |
+| **[Project 4: OCR System](./Project_4_OCR)** | An Optical Character Recognition (OCR) tool built to accurately extract and process text from images. | `Python` `Computer Vision` | 🟡 In Progress | [View](./Project_4_OCR) |
 
 > **Note:** Click on the project names to navigate to their respective directories. Each project folder contains its own dedicated `README.md` with detailed setup and execution instructions.
 
@@ -36,4 +37,4 @@ To clone this repository and explore the projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/WanderStarBishal/decodelabs-_tasks.git](https://github.com/WanderStarBishal/decodelabs-_tasks.git)
+   git clone [https://github.com/WanderStarBishal/decodelabs_tasks.git](https://github.com/WanderStarBishal/decodelabs_tasks.git)
