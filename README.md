@@ -27,7 +27,7 @@ This repository serves as a centralized log of my technical growth, machine lear
 | **[Project 1: ChatBot](./Project-1_ChatBot)** | A rule-based conversational agent using Python and Regular Expressions for pattern matching and input validation. | `Python` `re` | 🟢 Completed | [View](./Project-1_ChatBot) |
 | **[Project 2: Classification Model](./Project_2_classfication_model)** | An end-to-end K-Nearest Neighbors (KNN) classification model built on the Iris dataset, featuring data scaling and evaluation metrics. | `Python` `Scikit-Learn` `Pandas` | 🟢 Completed | [View](./Project_2_classfication_model) |
 | **[Project 3: Recommendation System](./Project_3_recommendation)** | An AI model designed to analyze data patterns and generate tailored recommendations. | `Python` `Machine Learning` | 🟢 Completed | [View](./Project_3_recommendation) |
-| **[Project 4: OCR System](./Project_4_OCR)** | An Optical Character Recognition (OCR) tool built to accurately extract and process text from images. | `Python` `Computer Vision` | 🟡 In Progress | [View](./Project_4_OCR) |
+| **[Project 4: OCR System](./Project_4_OCR)** | An Optical Character Recognition (OCR) tool built to accurately extract and process text from images. | `Python` `Computer Vision` | 🟢 Completed | [View](./Project_4_OCR) |
 
 > **Note:** Click on the project names to navigate to their respective directories. Each project folder contains its own dedicated `README.md` with detailed setup and execution instructions.
 
