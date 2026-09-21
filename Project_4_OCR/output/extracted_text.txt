@@ -1,0 +1,6 @@
+Basic Text Recognition Demo
+Library used: Tesseract OCR (pytesseract)
+
+Sample Input Image 2026
+
+1234567890 - OCR Test
